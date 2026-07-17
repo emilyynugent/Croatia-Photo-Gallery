@@ -1,6 +1,6 @@
-objectid,title,format,filename,description,imagealttext,publisher,location,latitude,longitude,rightsstatement,Additional Notes
-item1,"Split, Croatia",image/jpeg,split.jpg,The tallest staircase in Split,The tallest staircase in Split,Emily Nugent,"Split, Croatia",16.440193,43.508133,(CC BY-NC-SA 4.0),
-item2,"Brac, Croatia",image/jpeg,brac.jpg,Boats at the Bol marina on the island of Brac,A place in Dubrovnik where the show Game of Thrones was filmed,Emily Nugent,"Brac, Coatia",43.3167,16.63722,(CC BY-NC-SA 4.0),
-item3,"Hvar, Croatia",image/jpeg,hvar.jpg,A hidden trail leading down to a beautiful beach in Hvar,A hidden trail leading down to a beautiful beach in Hvar,Emily Nugent,"Hvar, Croatia",43.171457,16.441278,(CC BY-NC-SA 4.0),
-item4,"Korcula, Croatia",image/jpeg,korcula.jpg,A golden sunset setting over the horizon in Korcula,A golden sunset setting over the horizon in Korcula,Emily Nugent,"Korcula, Croatia",44.9486,16.9181,(CC BY-NC-SA 4.0),
-item5,"Dubrovnik, Croatia",image/jpeg,dubrovnik.jpg,A place in Dubrovnik where the show Game of Thrones was filmed,A place in Dubrovnik where the show Game of Thrones was filmed,Emily Nugent,"Dubrovnik, Croatia",42.640278,18.108334,(CC BY-NC-SA 4.0),
+objectid,title,format,filename,description,imagealttext,publisher,date,location,latitude,longitude,rightsstatement,Additional Notes
+item1,"Split, Croatia",image/jpeg,split.jpg,The tallest staircase in Split,The tallest staircase in Split,Emily Nugent,2024-05-06,"Split, Croatia",43.508133,16.440193,(CC BY-NC-SA 4.0),
+item2,"Brac, Croatia",image/jpeg,brac.jpg,Boats at the Bol marina on the island of Brac,A place in Dubrovnik where the show Game of Thrones was filmed,Emily Nugent,2024-05-10,"Brac, Coatia",43.3167,16.63722,(CC BY-NC-SA 4.0),
+item3,"Hvar, Croatia",image/jpeg,hvar.jpg,A hidden trail leading down to a beautiful beach in Hvar,A hidden trail leading down to a beautiful beach in Hvar,Emily Nugent,2024-05-13,"Hvar, Croatia",43.171457,16.441278,(CC BY-NC-SA 4.0),
+item4,"Korcula, Croatia",image/jpeg,korcula.jpg,A golden sunset setting over the horizon in Korcula,A golden sunset setting over the horizon in Korcula,Emily Nugent,2024-05-16,"Korcula, Croatia",44.9486,16.9181,(CC BY-NC-SA 4.0),
+item5,"Dubrovnik, Croatia",image/jpeg,dubrovnik.jpg,A place in Dubrovnik where the show Game of Thrones was filmed,A place in Dubrovnik where the show Game of Thrones was filmed,Emily Nugent,2024-05-19,"Dubrovnik, Croatia",42.640278,18.108334,(CC BY-NC-SA 4.0),
